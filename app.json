@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/praneet1875/video-stream",
+    "repository": "https://github.com/Praneet4/video-stream",
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
